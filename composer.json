@@ -1,7 +1,7 @@
 {
 	"name": "throllm/laraveltemplates",
 	"description": "Templates for Laravel (Templates derived from html5up.net)",
-	"license": "CC BY 3.0",
+	"keywords": ["laravel", "template"],
 	"authors": [{
 		"name": "Marcus Throll",
 		"email": "throll@web.de"
